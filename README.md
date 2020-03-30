@@ -1,6 +1,4 @@
-# PL-2303HXA
-
-Installation guide: 
+# PL2303HXA installation guide: 
 
 1. Turn off windows defender
 2. Run PL2303Dremover.exe
