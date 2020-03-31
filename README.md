@@ -1,6 +1,6 @@
-# Fixing PL2303HXA PHASED OUT SINCE 2012. PLEASE CONTACT YOU SUPPLIER
+# Fixing "PL2303HXA PHASED OUT SINCE 2012. PLEASE CONTACT YOU SUPPLIER"
 
-PL2303HXA installation guide: 
+PL2303HXA driver installation guide: 
 
 1. Turn off windows defender
 2. Run PL2303Dremover.exe
