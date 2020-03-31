@@ -10,4 +10,4 @@ PL2303HXA driver installation guide:
 6. Turn on windows defender
 7. Finish
 
-Next time you open your computer, if you don't see your COM port of PL2303, let repeat step 4 and 5.
+Next time you open your computer, if you don't see your COM port of PL2303, please repeat step 4 and 5.
