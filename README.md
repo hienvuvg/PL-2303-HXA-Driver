@@ -1,5 +1,9 @@
 # PL2303HXA driver installation guide: 
 
+# 1. How to download this driver:
+ Look for the green button "Clone or Download" and then choose "Download Zip"
+ 
+# 2. How to install this driver:
 1. Turn off "windows defender" and your antivirus programs
 2. Run PL2303Dremover.exe
 3. Run PL2303_Prolific_Vista.exe and install
